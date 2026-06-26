@@ -136,7 +136,7 @@ my_repository/
 
 ## 👨‍💻 Author
 
-Created by **Your Name**
+Created by **Tem-inils**
 
 ---
 
