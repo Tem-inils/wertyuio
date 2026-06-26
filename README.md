@@ -12,7 +12,7 @@ Follow these steps to run the project locally.
 
 ```bash
 git clone <repository-link>
-cd <my_repository>
+cd <repository>
 ```
 
 ---
